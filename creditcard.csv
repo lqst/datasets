@@ -1,65 +1,65 @@
-﻿personName,personId,amount,date,status,storeName,storeid
-Paul,1,1021.0,2014-07-18,Disputed,Apple Store,23
-Paul,1,1849.0,2014-12-20,Disputed,Macys,26
-Paul,1,654.0,2014-03-20,Undisputed,Wallmart,13
-Paul,1,475.0,2014-03-28,Undisputed,Sears,18
-Paul,1,1415.0,2014-04-01,Disputed,RadioShack,25
-Paul,1,1732.0,2014-05-10,Disputed,Urban Outfitters,24
-Paul,1,239.0,2014-05-15,Undisputed,Starbucks,21
-Paul,1,986.0,2014-04-17,Undisputed,Just Brew It,16
-Jean,2,802.0,2014-03-11,Undisputed,Amazon,11
-Jean,2,502.0,2014-04-09,Undisputed,Abercrombie,12
-Jean,2,203.0,2014-03-27,Undisputed,Subway,22
-Jean,2,848.0,2014-05-29,Undisputed,Wallmart,13
-Jean,2,196.0,2014-07-24,Undisputed,Soccer for the City,19
-Dan,3,62.0,2014-09-17,Undisputed,Soccer for the City,19
-Dan,3,605.0,2014-01-27,Undisputed,MacDonalds,14
-Dan,3,141.0,2014-11-14,Undisputed,Amazon,11
-Dan,3,35.0,2014-01-23,Undisputed,MacDonalds,14
-Marc,4,430.0,2014-08-10,Undisputed,Sears,18
-Marc,4,1003.0,2014-12-20,Disputed,Macys,26
-Marc,4,964.0,2014-03-22,Undisputed,Wallmart,13
-Marc,4,1721.0,2014-04-01,Disputed,RadioShack,25
-Marc,4,11.0,2014-09-04,Undisputed,Soccer for the City,19
-Marc,4,1424.0,2014-05-10,Disputed,Urban Outfitters,24
-Marc,4,1914.0,2014-07-18,Disputed,Apple Store,23
-Marc,4,336.0,2014-04-03,Undisputed,American Apparel,15
-Marc,4,134.0,2014-04-14,Undisputed,Amazon,11
-John,5,468.0,2014-07-29,Undisputed,Justice,17
-John,5,768.0,2014-11-28,Undisputed,American Apparel,15
-John,5,457.0,2014-10-15,Undisputed,Sprint,20
-John,5,921.0,2014-03-12,Undisputed,Just Brew It,16
-John,5,545.0,2014-10-06,Undisputed,Soccer for the City,19
-Zoey,6,721.0,2014-07-17,Undisputed,Amazon,11
-Zoey,6,353.0,2014-10-25,Undisputed,Subway,22
-Zoey,6,740.0,2014-12-15,Undisputed,MacDonalds,14
-Zoey,6,510.0,2014-11-27,Undisputed,Abercrombie,12
-Zoey,6,414.0,2014-01-20,Undisputed,Just Brew It,16
-Ava,7,627.0,2014-05-20,Undisputed,Just Brew It,16
-Ava,7,87.0,2014-02-19,Undisputed,Wallmart,13
-Ava,7,533.0,2014-08-06,Undisputed,American Apparel,15
-Ava,7,681.0,2014-12-28,Undisputed,Sears,18
-Ava,7,723.0,2014-01-08,Undisputed,American Apparel,15
-Olivia,8,231.0,2014-07-12,Undisputed,Wallmart,13
-Olivia,8,1152.0,2014-08-10,Disputed,Urban Outfitters,24
-Olivia,8,74.0,2014-09-04,Undisputed,Soccer for the City,19
-Olivia,8,1790.0,2014-12-20,Disputed,Macys,26
-Olivia,8,1884.0,2014-08-01,Disputed,RadioShack,25
-Olivia,8,924.0,2014-10-04,Undisputed,Soccer for the City,19
-Olivia,8,1149.0,2014-07-18,Disputed,Apple Store,23
-Olivia,8,742.0,2014-08-12,Undisputed,Just Brew It,16
-Mia,9,276.0,2014-12-24,Undisputed,Soccer for the City,19
-Mia,9,240.0,2014-07-09,Undisputed,Amazon,11
-Mia,9,164.0,2014-12-26,Undisputed,Soccer for the City,19
-Mia,9,66.0,2014-04-16,Undisputed,Starbucks,21
-Mia,9,830.0,2014-03-13,Undisputed,Sears,18
-Mia,9,467.0,2014-12-23,Undisputed,MacDonalds,14
-Madison,10,147.0,2014-08-03,Undisputed,Amazon,11
-Madison,10,1816.0,2014-12-20,Disputed,Macys,26
-Madison,10,1925.0,2014-07-18,Disputed,Apple Store,23
-Madison,10,1374.0,2014-07-10,Disputed,Urban Outfitters,24
-Madison,10,19.0,2014-07-29,Undisputed,Abercrombie,12
-Madison,10,630.0,2014-10-06,Undisputed,MacDonalds,14
-Madison,10,1368.0,2014-07-01,Disputed,RadioShack,25
-Madison,10,91.0,2014-06-29,Undisputed,Wallmart,13
-Madison,10,352.0,2014-12-16,Undisputed,Subway,22
+﻿personName,personId,txid,amount,date,status,storeName,storeid
+Paul,1,1,1021.0,2014-07-18,Disputed,Apple Store,23
+Paul,1,2,1849.0,2014-12-20,Disputed,Macys,26
+Paul,1,3,654.0,2014-03-20,Undisputed,Wallmart,13
+Paul,1,4,475.0,2014-03-28,Undisputed,Sears,18
+Paul,1,5,1415.0,2014-04-01,Disputed,RadioShack,25
+Paul,1,6,1732.0,2014-05-10,Disputed,Urban Outfitters,24
+Paul,1,7,239.0,2014-05-15,Undisputed,Starbucks,21
+Paul,1,8,986.0,2014-04-17,Undisputed,Just Brew It,16
+Jean,2,9,802.0,2014-03-11,Undisputed,Amazon,11
+Jean,2,10,502.0,2014-04-09,Undisputed,Abercrombie,12
+Jean,2,11,203.0,2014-03-27,Undisputed,Subway,22
+Jean,2,12,848.0,2014-05-29,Undisputed,Wallmart,13
+Jean,2,13,196.0,2014-07-24,Undisputed,Soccer for the City,19
+Dan,3,14,62.0,2014-09-17,Undisputed,Soccer for the City,19
+Dan,3,15,605.0,2014-01-27,Undisputed,MacDonalds,14
+Dan,3,16,141.0,2014-11-14,Undisputed,Amazon,11
+Dan,3,17,35.0,2014-01-23,Undisputed,MacDonalds,14
+Marc,4,18,430.0,2014-08-10,Undisputed,Sears,18
+Marc,4,19,1003.0,2014-12-20,Disputed,Macys,26
+Marc,4,20,964.0,2014-03-22,Undisputed,Wallmart,13
+Marc,4,21,1721.0,2014-04-01,Disputed,RadioShack,25
+Marc,4,22,11.0,2014-09-04,Undisputed,Soccer for the City,19
+Marc,4,23,1424.0,2014-05-10,Disputed,Urban Outfitters,24
+Marc,4,24,1914.0,2014-07-18,Disputed,Apple Store,23
+Marc,4,25,336.0,2014-04-03,Undisputed,American Apparel,15
+Marc,4,26,134.0,2014-04-14,Undisputed,Amazon,11
+John,5,27,468.0,2014-07-29,Undisputed,Justice,17
+John,5,28,768.0,2014-11-28,Undisputed,American Apparel,15
+John,5,29,457.0,2014-10-15,Undisputed,Sprint,20
+John,5,30,921.0,2014-03-12,Undisputed,Just Brew It,16
+John,5,31,545.0,2014-10-06,Undisputed,Soccer for the City,19
+Zoey,6,32,721.0,2014-07-17,Undisputed,Amazon,11
+Zoey,6,33,353.0,2014-10-25,Undisputed,Subway,22
+Zoey,6,34,740.0,2014-12-15,Undisputed,MacDonalds,14
+Zoey,6,35,510.0,2014-11-27,Undisputed,Abercrombie,12
+Zoey,6,36,414.0,2014-01-20,Undisputed,Just Brew It,16
+Ava,7,37,627.0,2014-05-20,Undisputed,Just Brew It,16
+Ava,7,38,87.0,2014-02-19,Undisputed,Wallmart,13
+Ava,7,39,533.0,2014-08-06,Undisputed,American Apparel,15
+Ava,7,40,681.0,2014-12-28,Undisputed,Sears,18
+Ava,7,41,723.0,2014-01-08,Undisputed,American Apparel,15
+Olivia,8,42,231.0,2014-07-12,Undisputed,Wallmart,13
+Olivia,8,43,1152.0,2014-08-10,Disputed,Urban Outfitters,24
+Olivia,8,44,74.0,2014-09-04,Undisputed,Soccer for the City,19
+Olivia,8,45,1790.0,2014-12-20,Disputed,Macys,26
+Olivia,8,46,1884.0,2014-08-01,Disputed,RadioShack,25
+Olivia,8,47,924.0,2014-10-04,Undisputed,Soccer for the City,19
+Olivia,8,48,1149.0,2014-07-18,Disputed,Apple Store,23
+Olivia,8,49,742.0,2014-08-12,Undisputed,Just Brew It,16
+Mia,9,50,276.0,2014-12-24,Undisputed,Soccer for the City,19
+Mia,9,51,240.0,2014-07-09,Undisputed,Amazon,11
+Mia,9,52,164.0,2014-12-26,Undisputed,Soccer for the City,19
+Mia,9,53,66.0,2014-04-16,Undisputed,Starbucks,21
+Mia,9,54,830.0,2014-03-13,Undisputed,Sears,18
+Mia,9,55,467.0,2014-12-23,Undisputed,MacDonalds,14
+Madison,10,56,147.0,2014-08-03,Undisputed,Amazon,11
+Madison,10,57,1816.0,2014-12-20,Disputed,Macys,26
+Madison,10,58,1925.0,2014-07-18,Disputed,Apple Store,23
+Madison,10,59,1374.0,2014-07-10,Disputed,Urban Outfitters,24
+Madison,10,60,19.0,2014-07-29,Undisputed,Abercrombie,12
+Madison,10,61,630.0,2014-10-06,Undisputed,MacDonalds,14
+Madison,10,62,1368.0,2014-07-01,Disputed,RadioShack,25
+Madison,10,63,91.0,2014-06-29,Undisputed,Wallmart,13
+Madison,10,64,352.0,2014-12-16,Undisputed,Subway,22
